@@ -1,0 +1,17 @@
+[
+    {
+        "pol": "MALE",
+        "type": "radio",
+        "name": "sex",
+        "id": "rbMale",
+        "class": "sex"
+    },
+    {
+        "pol": "FEMALE",
+        "type": "radio",
+        "name": "sex",
+        "id": "rbFemale",
+        "class": "sex"
+
+    }
+]

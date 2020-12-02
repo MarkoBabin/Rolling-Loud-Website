@@ -1,0 +1,67 @@
+[
+    {
+        "slika":{
+            "src":"images/shop/shop1.png",
+            "alt": "Black Logo T-Shirt"
+        },
+        "ime": "Black logo t-shirt",
+        "cena": 39.99
+    },
+    {
+        "slika":{
+            "src":"images/shop/shop2.png",
+            "alt": "Rolling Loud noise logo T-shirt"
+        },
+        "ime": "Rolling Loud noise logo T-shirt",
+        "cena": 29.99 
+    },
+    {
+        "slika":{
+            "src":"images/shop/shop3.png",
+            "alt": "2017 SE Headliners T-shirt"
+        },
+        "ime": "2017 SE Headliners T-shirt",
+        "cena": 39.99
+    },
+    {
+        "slika":{
+            "src":"images/shop/shop4.png",
+            "alt": "Pink Logo Hoodie"
+        },
+        "ime": "Pink Logo Hoodie",
+        "cena": 89.99
+    },
+    {
+        "slika":{
+            "src":"images/shop/shop5.png",
+            "alt": "Rolling Loud Snapback"
+        },
+        "ime": "Rolling Loud Snapback",
+        "cena": 59.99
+    },
+    {
+        "slika":{
+            "src":"images/shop/shop6.png",
+            "alt": "LA SE Hoodie Frozen Yellow 2018"
+        },
+        "ime": "LA SE Hoodie Frozen Yellow 2018",
+        "cena": 99.99
+    },
+    {
+        "slika":{
+            "src":"images/shop/shop7.png",
+            "alt": "Rolling Loud 2018 Crewneck"
+        },
+        "ime": "Rolling Loud 2018 Crewneck",
+        "cena": 64.99 
+    },
+    {
+        "slika":{
+            "src":"images/shop/shop8.png",
+            "alt": "Bay Area '18 T-shirt"
+        },
+        "ime": "Bay Area '18 T-shirt",
+        "cena": 34.99
+    }
+
+]

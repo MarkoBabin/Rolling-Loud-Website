@@ -1,0 +1,35 @@
+[
+    {
+        "putanjaSlike": "images/travis.png",
+        "altSlike": "Travis Scott",
+        "nazivArtista": "TRAVIS SCOTT",
+        "time": "20:00 EST",
+        "stage": "SAUCE",
+        "dj": "CHASE B"
+    },
+    {
+        "putanjaSlike": "images/kanyeWest.png",
+        "altSlike": "Kanye West",
+        "nazivArtista": "KANYE WEST",
+        "time": "22:30 EST",
+        "stage": "SAUCE",
+        "dj": "MIKE DEAN"
+    },
+    {
+        "putanjaSlike": "images/frankOcean.png",
+        "altSlike": "Frank Ocean",
+        "nazivArtista": "FRANK OCEAN",
+        "time": "18:30 EST",
+        "stage": "LOUD",
+        "dj": "UNKNOWN"
+    },
+    {
+        "putanjaSlike": "images/21savage.png",
+        "altSlike": "21 Savage",
+        "nazivArtista": "21 SAVAGE",
+        "time": "21:00 EST",
+        "stage": "LOUD",
+        "dj": "METRO BOOMIN"
+    }
+
+]
